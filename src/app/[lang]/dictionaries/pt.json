@@ -22,7 +22,8 @@
     "projects_label": "Projetos entregues",
     "satisfaction_label": "Satisfação dos clientes",
     "experience_label": "Anos de experiência",
-    "conversion_label": "Taxa média de conversão"
+    "engagement_label": "Tempo de engajamento",
+    "conversion_label": "Tempo de engajamento"
   },
   "projects": {
     "title": "Projetos que entregam resultado.",
@@ -68,8 +69,8 @@
   "cta": {
     "title_line1": "Tem um projeto em mente?",
     "title_accent": "Vamos tirar do papel.",
-    "body": "Manda uma mensagem e em 24h a gente já está alinhando os próximos passos.",
-    "whatsapp": "Chamar no WhatsApp",
+    "body": "Entre em contato e em até 24h iniciamos o alinhamento do projeto.",
+    "whatsapp": "Falar pelo WhatsApp",
     "instagram": "Seguir no Instagram"
   },
   "footer": {

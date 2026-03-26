@@ -23,7 +23,7 @@ function JsonLd({ locale }: { locale: Locale }) {
     url: `${baseUrl}/${locale}`,
     image: `${baseUrl}/${locale}/opengraph-image`,
     sameAs: [
-      'https://github.com/joaofelipeschwaab',
+      'https://github.com/jfelipeschwaab',
       'https://linkedin.com/in/joaofelipeschwaab',
       'https://instagram.com/joaofelipeschwaab',
     ],

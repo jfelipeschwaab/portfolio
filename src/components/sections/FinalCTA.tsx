@@ -73,7 +73,7 @@ export function FinalCTA({ dict, locale }: FinalCTAProps) {
         </ScrollReveal>
 
         <ScrollReveal delay={0.3}>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <MagneticButton
               href={getWhatsAppLink(locale)}
               variant="primary"

@@ -76,10 +76,10 @@ function StatItem({ value, suffix, label, delay }: StatItemProps) {
 
 export function Stats({ dict }: StatsProps) {
   const stats = [
-    { value: 20, suffix: '+', label: dict.stats.projects_label },
+    { value: 10, suffix: '+', label: dict.stats.projects_label },
     { value: 100, suffix: '%', label: dict.stats.satisfaction_label },
     { value: 3, suffix: '+', label: dict.stats.experience_label },
-    { value: 40, suffix: '%+', label: dict.stats.conversion_label },
+    { value: 75, suffix: '%', label: dict.stats.conversion_label },
   ]
 
   return (

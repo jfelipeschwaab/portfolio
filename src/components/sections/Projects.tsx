@@ -176,7 +176,11 @@ export function Projects({ dict }: ProjectsProps) {
           className="lg:col-span-12"
         >
           <GlassCard className="flex flex-col items-center justify-center py-12 md:py-16 text-center">
-            <span className="text-4xl md:text-5xl mb-4" aria-hidden="true">...</span>
+            <div className="flex items-center gap-3 mb-4" aria-hidden="true">
+              <span className="w-2.5 h-2.5 rounded-full bg-quasar opacity-60" />
+              <span className="w-2.5 h-2.5 rounded-full bg-quasar opacity-80" />
+              <span className="w-2.5 h-2.5 rounded-full bg-quasar" />
+            </div>
             <h3 className="font-display font-semibold text-xl md:text-2xl text-starlight mb-2">
               {dict.projects.more_title}
             </h3>

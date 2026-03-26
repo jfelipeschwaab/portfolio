@@ -6,7 +6,7 @@ export const WHATSAPP_MESSAGE_EN = 'Hi João! I saw your portfolio and would lik
 export const INSTAGRAM_HANDLE = 'jschwaab.dev'
 
 export const SOCIAL_LINKS = {
-  github: 'https://github.com/joaofelipeschwaab',
+  github: 'https://github.com/jfelipeschwaab',
   linkedin: 'https://www.linkedin.com/in/joão-felipe-schwaab/',
   instagram: `https://instagram.com/${INSTAGRAM_HANDLE}`,
 } as const

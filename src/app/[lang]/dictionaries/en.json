@@ -22,7 +22,8 @@
     "projects_label": "Projects delivered",
     "satisfaction_label": "Client satisfaction",
     "experience_label": "Years of experience",
-    "conversion_label": "Avg conversion rate"
+    "engagement_label": "Time on site",
+    "conversion_label": "Time on site"
   },
   "projects": {
     "title": "Projects that deliver results.",
@@ -68,8 +69,8 @@
   "cta": {
     "title_line1": "Got a project in mind?",
     "title_accent": "Let's make it real.",
-    "body": "Send a message and within 24h we'll be aligning the next steps.",
-    "whatsapp": "Message on WhatsApp",
+    "body": "Get in touch and within 24h we'll have the project aligned.",
+    "whatsapp": "Chat on WhatsApp",
     "instagram": "Follow on Instagram"
   },
   "footer": {
