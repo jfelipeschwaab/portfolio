@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "projects": "Projects",
+    "skills": "Skills",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "label": "LANDING PAGES & APP DEVELOPER",
+    "title_line1": "Interfaces that",
+    "title_accent": "convert.",
+    "description": "I design, build, and ship digital experiences that turn visitors into customers — from first impression to the last tap on mobile.",
+    "cta_primary": "Let's talk",
+    "cta_secondary": "See projects"
+  },
+  "manifesto": {
+    "quote_line1": "\"A landing page isn't a website.",
+    "quote_line2": "It's a decision engine.\"",
+    "body": "Every pixel has a purpose. Every scroll tells a story. I don't build pages — I build visual arguments that guide users from interest to action.\n\nOn mobile, this is even more critical: smaller screens demand absolute clarity. No distraction. No friction. Just conversion."
+  },
+  "stats": {
+    "projects_label": "Projects delivered",
+    "satisfaction_label": "Client satisfaction",
+    "experience_label": "Years of experience",
+    "conversion_label": "Avg conversion rate"
+  },
+  "projects": {
+    "title": "Projects that deliver results.",
+    "subtitle": "Each project is a response to a real problem. From strategy to deploy, from first screen to last pixel.",
+    "view_project": "View project",
+    "badge_landing": "Landing Page",
+    "badge_mobile": "Mobile App",
+    "more_title": "And much more...",
+    "more_description": "New projects in the works. Get in touch to find out what's coming next.",
+    "items": {
+      "aqua": {
+        "title": "Aqua – Water Tracker",
+        "description": "Hydration tracking app with home screen widget. Available on the App Store."
+      },
+      "solaris": {
+        "title": "Solaris – Focus & Productivity",
+        "description": "+380 downloads. Focus, widgets and app blocking via Screen Time API."
+      },
+      "julianepsi": {
+        "title": "Juliane Psi",
+        "description": "Landing page for an online psychologist focused on conversion and credibility."
+      },
+      "lucascorretor": {
+        "title": "Lucas Corretor",
+        "description": "Landing page for a real estate agent in Brasília, with lead capture and property showcase."
+      }
+    }
+  },
+  "skills": {
+    "title": "The right tools for every challenge.",
+    "groups": {
+      "frontend": "Frontend & Web",
+      "mobile": "Mobile",
+      "tools": "Tools & Deploy"
+    }
+  },
+  "about": {
+    "title": "The person behind the code.",
+    "body": "I'm João Felipe Schwaab — a developer focused on building digital experiences that work. I started with landing pages because I believe first impressions are everything. I expanded into mobile because users live on their phones.\n\nMy obsession: understanding why people click, scroll, and convert. Every project is a new hypothesis about human behavior.",
+    "location": "Based in Brasília, DF",
+    "availability": "Available for remote projects"
+  },
+  "cta": {
+    "title_line1": "Got a project in mind?",
+    "title_accent": "Let's make it real.",
+    "body": "Send a message and within 24h we'll be aligning the next steps.",
+    "whatsapp": "Message on WhatsApp",
+    "instagram": "Follow on Instagram"
+  },
+  "footer": {
+    "copyright": "João Felipe Schwaab"
+  },
+  "annotations": {
+    "hero": "2-second rule. Name + role + CTA.",
+    "manifesto": "Philosophy before portfolio. Context builds trust.",
+    "stats": "Social proof before work. Numbers persuade.",
+    "projects": "Bento grid: visual hierarchy through scale.",
+    "skills": "Grouped by domain, not by icon.",
+    "about": "Personal connection. Tech is made by humans.",
+    "cta": "One clear action. Zero friction."
+  }
+}

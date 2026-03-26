@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "projects": "Projetos",
+    "skills": "Skills",
+    "about": "Sobre",
+    "contact": "Contato"
+  },
+  "hero": {
+    "label": "DESENVOLVEDOR DE LANDING PAGES E APLICATIVOS",
+    "title_line1": "Interfaces que",
+    "title_accent": "convertem.",
+    "description": "Projeto, desenvolvo e lanço experiências digitais que transformam visitantes em clientes — da primeira impressão ao toque final no celular.",
+    "cta_primary": "Vamos conversar",
+    "cta_secondary": "Ver projetos"
+  },
+  "manifesto": {
+    "quote_line1": "\"Uma landing page não é um site.",
+    "quote_line2": "É uma máquina de decisão.\"",
+    "body": "Cada pixel tem um propósito. Cada scroll conta uma história. Eu não construo páginas — eu construo argumentos visuais que guiam o usuário do interesse à ação.\n\nNo mobile, isso é ainda mais crítico: telas menores exigem clareza absoluta. Sem distração. Sem fricção. Só conversão."
+  },
+  "stats": {
+    "projects_label": "Projetos entregues",
+    "satisfaction_label": "Satisfação dos clientes",
+    "experience_label": "Anos de experiência",
+    "conversion_label": "Taxa média de conversão"
+  },
+  "projects": {
+    "title": "Projetos que entregam resultado.",
+    "subtitle": "Cada projeto é uma resposta a um problema real. Da estratégia ao deploy, da primeira tela ao último pixel.",
+    "view_project": "Ver projeto",
+    "badge_landing": "Landing Page",
+    "badge_mobile": "Mobile App",
+    "more_title": "E muito mais...",
+    "more_description": "Novos projetos saindo do forno. Entre em contato para saber o que vem por aí.",
+    "items": {
+      "aqua": {
+        "title": "Aqua – Water Tracker",
+        "description": "App de rastreamento de hidratação com widget para tela inicial. Disponível na App Store."
+      },
+      "solaris": {
+        "title": "Solaris – Foco e Produtividade",
+        "description": "+380 downloads. Foco, widgets e bloqueio de apps com Screen Time API."
+      },
+      "julianepsi": {
+        "title": "Juliane Psi",
+        "description": "Landing page para psicóloga com atendimento online. Foco em conversão e credibilidade."
+      },
+      "lucascorretor": {
+        "title": "Lucas Corretor",
+        "description": "Landing page para corretor de imóveis em Brasília, com captação de leads e apresentação de imóveis."
+      }
+    }
+  },
+  "skills": {
+    "title": "As ferramentas certas para cada desafio.",
+    "groups": {
+      "frontend": "Frontend & Web",
+      "mobile": "Mobile",
+      "tools": "Ferramentas & Deploy"
+    }
+  },
+  "about": {
+    "title": "Quem está por trás do código.",
+    "body": "Sou João Felipe Schwaab — desenvolvedor focado em criar experiências digitais que funcionam. Comecei com landing pages porque acredito que a primeira impressão é tudo. Expandi para mobile porque os usuários vivem no celular.\n\nMinha obsessão: entender por que as pessoas clicam, rolam e convertem. Cada projeto é uma nova hipótese sobre comportamento humano.",
+    "location": "Baseado em Brasília, DF",
+    "availability": "Disponível para projetos remotos"
+  },
+  "cta": {
+    "title_line1": "Tem um projeto em mente?",
+    "title_accent": "Vamos tirar do papel.",
+    "body": "Manda uma mensagem e em 24h a gente já está alinhando os próximos passos.",
+    "whatsapp": "Chamar no WhatsApp",
+    "instagram": "Seguir no Instagram"
+  },
+  "footer": {
+    "copyright": "João Felipe Schwaab"
+  },
+  "annotations": {
+    "hero": "Regra dos 2 segundos. Nome + função + CTA.",
+    "manifesto": "Filosofia antes do portfolio. Contexto gera confiança.",
+    "stats": "Prova social antes do trabalho. Números convencem.",
+    "projects": "Bento grid: hierarquia visual por escala.",
+    "skills": "Agrupado por domínio, não por ícone.",
+    "about": "Conexão pessoal. Tecnologia é feita por humanos.",
+    "cta": "Uma ação clara. Zero fricção."
+  }
+}
