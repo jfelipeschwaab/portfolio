@@ -11,15 +11,15 @@ interface ProjectsProps {
 }
 
 const projects: Project[] = [
-  {
-    id: 'lucascorretor',
-    type: 'landing-page',
-    slug: 'lucascorretor',
-    image: '/lucas-corretor-foto.jpeg',
-    techs: ['Next.js', 'Tailwind CSS'],
-    link: 'https://lucascorretor.com.br',
-    span: 'large',
-  },
+  // {
+  //   id: 'lucascorretor',
+  //   type: 'landing-page',
+  //   slug: 'lucascorretor',
+  //   image: '/lucas-corretor-foto.jpeg',
+  //   techs: ['Next.js', 'Tailwind CSS'],
+  //   link: 'https://lucascorretor.com.br',
+  //   span: 'large',
+  // },
   {
     id: 'solaris',
     type: 'mobile-app',
