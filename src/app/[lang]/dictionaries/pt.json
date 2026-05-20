@@ -46,9 +46,17 @@
         "title": "Juliane Psi",
         "description": "Landing page para psicóloga com atendimento online. Foco em conversão e credibilidade."
       },
-      "lucascorretor": {
-        "title": "Lucas Corretor",
-        "description": "Landing page para corretor de imóveis em Brasília, com captação de leads e apresentação de imóveis."
+      "lslifter": {
+        "title": "LS Lifter",
+        "description": "Landing page com foco em captação de leads e apresentação de serviços."
+      },
+      "castelokids": {
+        "title": "Castelo Kids Festas",
+        "description": "Landing page para buffet infantil em Brasília, com identidade lúdica, galeria de atrações e fluxo de reserva otimizado para conversão."
+      },
+      "amparo": {
+        "title": "Amparo: Gestão e Cuidado",
+        "description": "App que ajuda a família a acompanhar a rotina de quem cuida de um idoso — medicações, pressão, glicemia e exercícios em um só lugar, com lembretes que tiram peso de quem ama."
       }
     }
   },

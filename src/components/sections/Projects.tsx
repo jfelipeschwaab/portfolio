@@ -11,13 +11,22 @@ interface ProjectsProps {
 }
 
 const projects: Project[] = [
+  {
+    id: 'castelokids',
+    type: 'landing-page',
+    slug: 'castelokids',
+    image: '/castelokids-foto.png',
+    techs: ['Next.js', 'Tailwind CSS'],
+    link: 'https://www.castelokidsfestas.com',
+    span: 'large',
+  },
   // {
-  //   id: 'lucascorretor',
+  //   id: 'lslifter',
   //   type: 'landing-page',
-  //   slug: 'lucascorretor',
+  //   slug: 'lslifter',
   //   image: '/lucas-corretor-foto.jpeg',
   //   techs: ['Next.js', 'Tailwind CSS'],
-  //   link: 'https://lucascorretor.com.br',
+  //   link: 'https://lslifter.com',
   //   span: 'large',
   // },
   {
@@ -45,6 +54,14 @@ const projects: Project[] = [
     image: '/Aqua-foto.jpeg',
     techs: ['SwiftUI', 'WidgetKit', 'MVVM', 'XCTest', 'CI/CD'],
     link: 'https://apps.apple.com/br/app/aqua-water-tracker/id6755016225',
+    span: 'medium',
+  },
+  {
+    id: 'amparo',
+    type: 'mobile-app',
+    slug: 'amparo',
+    image: '/amparo-foto.png',
+    techs: ['SwiftUI', 'MVVM', 'HealthKit'],
     span: 'medium',
   },
 ]

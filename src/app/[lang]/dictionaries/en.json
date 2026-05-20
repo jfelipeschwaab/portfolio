@@ -46,9 +46,17 @@
         "title": "Juliane Psi",
         "description": "Landing page for an online psychologist focused on conversion and credibility."
       },
-      "lucascorretor": {
-        "title": "Lucas Corretor",
-        "description": "Landing page for a real estate agent in Brasília, with lead capture and property showcase."
+      "lslifter": {
+        "title": "LS Lifter",
+        "description": "Landing page focused on lead capture and service presentation."
+      },
+      "castelokids": {
+        "title": "Castelo Kids Festas",
+        "description": "Landing page for a kids' party venue in Brasília — playful identity, attractions gallery, and a conversion-optimized booking flow."
+      },
+      "amparo": {
+        "title": "Amparo: Gestão e Cuidado",
+        "description": "An iOS app that helps families share the daily care of an elderly loved one — medications, blood pressure, glucose and exercises in one place, with gentle reminders that lift weight off the people who love them."
       }
     }
   },
