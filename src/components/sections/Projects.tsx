@@ -62,6 +62,7 @@ const projects: Project[] = [
     slug: 'amparo',
     image: '/amparo-foto.png',
     techs: ['SwiftUI', 'MVVM', 'HealthKit'],
+    link: 'https://apps.apple.com/us/app/amparo-gest%C3%A3o-e-cuidado/id6762303598',
     span: 'medium',
   },
 ]
